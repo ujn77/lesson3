@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson3</string>
+    <string name="choose_site">Выберите сайт:</string>
+    <string-array name="sitelist">
+        <item>http://ngs.ru</item>
+        <item>http://mail.ru</item>
+        <item>http://ya.ru</item>
+    </string-array>
+</resources>
